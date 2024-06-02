@@ -2,13 +2,20 @@
 layout: post
 title: Quick markdown example
 subtitle: This is a quick markdown example
-excerpt_image: https://github.com/jeffreytse/jekyll-theme-yat/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505
+excerpt_image: assets/images/banners/zejianli.jpg
 categories: markdown
 tags: [example]
-top: 2
+top: 1
 ---
 
-![banner](https://github.com/jeffreytse/jekyll-theme-yat/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505)
+![banner](assets/images/banners/zejianli.jpg)
+
+
+# Biography
+
+
+Zejian Li is an Platform Top 100 Researcher with School of Software Technology, Zhejiang University, China. He is a member of International Design Institue, working closely with Prof. Lingyun Sun. He received his Ph.D. degree from Zhejiang University, China, in 2019. His Ph.D advisor is Prof. Yongchuan Tang. His research interests include generative models and intelligent design.
+
 
 Paragraphs are separated by a blank line.
 
