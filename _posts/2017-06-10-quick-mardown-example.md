@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick markdown example
+title: About me
 subtitle: This is a quick markdown example
 excerpt_image: assets/images/banners/zejianli.jpg
 categories: markdown
@@ -8,7 +8,7 @@ tags: [example]
 top: 1
 ---
 
-![banner](assets/images/banners/zejianli.jpg)
+![banner](/assets/images/banners/zejianli.jpg)
 
 
 # Biography

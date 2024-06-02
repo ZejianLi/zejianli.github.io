@@ -163,7 +163,9 @@ yat:
 defaults:
   home:
     heading: 'ZejianLi 李泽健'
-    subheading: 'Platform Top 100 Researcher, School of Software Technology, Zhejiang University (ZJU), Ningbo, China. <br> E-mail: zejianlee at zju.edu.cn. '
+    subheading: 'Platform Top 100 Researcher, School of Software Technology, Zhejiang University (ZJU), Ningbo, China. <br>
+    浙江大学软件学院平台“百人计划”研究员 <br>
+    E-mail: zejianlee at zju.edu.cn. '
     banner: "/assets/images/banners/Picture1.png"
 
 # Banner default settings
