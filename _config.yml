@@ -160,11 +160,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: 'ZejianLi 李泽健'
+    subheading: 'Zejian Li is an Assistant Professor with School of Software Technology, Zhejiang University, China. He is a member of International Design Institue, working closely with Prof. Lingyun Sun. He received his Ph.D. degree from Zhejiang University, China, in 2019. His Ph.D advisor is Prof. Yongchuan Tang. His research interests include generative models and intelligent design.'
+    banner: "/assets/images/banners/home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
