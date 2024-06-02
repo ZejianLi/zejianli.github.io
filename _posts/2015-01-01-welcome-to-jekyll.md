@@ -1,29 +1,33 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: About Me
 subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
-  loop: true
+  video: null
+  loop: false
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: ‘/assets/images/banners/Picture1.png’
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: aboutme
 top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Biography
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Zejian Li is an Platform Top 100 Researcher with School of Software Technology, Zhejiang University, China. He is a member of International Design Institue, working closely with Prof. Lingyun Sun. He received his Ph.D. degree from Zhejiang University, China, in 2019. His Ph.D advisor is Prof. Yongchuan Tang. His research interests include generative models and intelligent design.
+
+
+
 
 ## section 1
 
