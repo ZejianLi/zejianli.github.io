@@ -2,16 +2,16 @@
 layout: post
 title: About me
 subtitle: This is a quick markdown example
-excerpt_image: assets/images/banners/zejianli.jpg
+excerpt_image: /assets/images/zejianli_wide.png
 categories: markdown
 tags: [example]
 top: 1
 ---
 
-![banner](/assets/images/banners/zejianli.jpg)
+![banner](/assets/images/zejianli_wide.png)
 
 
-# Biography
+## Biography
 
 
 Zejian Li is an Platform Top 100 Researcher with School of Software Technology, Zhejiang University, China. He is a member of International Design Institue, working closely with Prof. Lingyun Sun. He received his Ph.D. degree from Zhejiang University, China, in 2019. His Ph.D advisor is Prof. Yongchuan Tang. His research interests include generative models and intelligent design.
